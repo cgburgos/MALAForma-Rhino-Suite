@@ -2,7 +2,7 @@
 
 ![Status = In Test](https://img.shields.io/badge/Status-Testing-yellow?style=for-the-badge&logoColor=white&logo=Statuspal)
 ![Bugs = Found](https://img.shields.io/badge/Bugs-Found-critical?style=for-the-badge&logoColor=white&logo=OpenBugBounty)
-![Version = 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=for-the-badge&logoColor=white&logo=Verizon)
+![Version = 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=for-the-badge&logoColor=white&logo=Verizon)
 ![Author = cgburgos](https://img.shields.io/badge/Author-cgburgos-informational?style=for-the-badge&logoColor=white&logo=Anchor)
 
 ## Description
