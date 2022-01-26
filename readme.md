@@ -1,6 +1,6 @@
 # MALAForma Rhino Suite
 
-![MALAForma Header](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PageHeader.png)
+![MALAForma Header](https://github.com/cgburgos/MALAForma-Rhino-Suite/wiki/res/img/PageHeader.png)
 
 <a href="https://twitter.com/_cgburgos
 " target="_blank">
@@ -17,12 +17,12 @@ src="https://img.shields.io/badge/github-informational?style=for-the-badge&logoC
 
 ## Partners
 
-![PremiumPartner1](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PremiumPartner1.png)
-![PremiumPartner2](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PremiumPartner2.png)
+![PremiumPartner1](https://github.com/cgburgos/MALAForma-Rhino-Suite/wiki/res/img/PremiumPartner1.png)
+![PremiumPartner2](https://github.com/cgburgos/MALAForma-Rhino-Suite/wiki/res/img/PremiumPartner2.png)
 
 ## License
 
-By downloading the application you are accepting [Exploratory Beta test license agreement](./wiki/MALAForma-Rhino-Suite.wiki/license.md).
+By downloading the application you are accepting [Exploratory Beta test license agreement](https://github.com/cgburgos/MALAForma-Rhino-Suite/wiki/license.md).
 
 ## Installation
 
@@ -43,14 +43,6 @@ All the information is accessible on this button:
 <img
 src="https://img.shields.io/badge/MALAForma Rhino WIKI-informational?style=for-the-badge&logoColor=white&logo=github"/>
 </a>
-
-## Command List
-
-1. [SplittingCurve](./wiki/MALAForma-Rhino-Suite.wiki/SplittingCurve.md)
-
-## How to report an issue / Bug
-
-Lorem ipsum yet
 
 ## Contact
 
