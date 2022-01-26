@@ -1,6 +1,6 @@
 # MALAForma Rhino Suite
 
-![MALAForma Header](./res/img/PageHeader.png)
+![MALAForma Header](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PageHeader.png)
 
 <a href="https://twitter.com/_cgburgos
 " target="_blank">
@@ -17,12 +17,12 @@ src="https://img.shields.io/badge/github-informational?style=for-the-badge&logoC
 
 ## Partners
 
-![PremiumPartner1](./res/img/PremiumPartner1.png)
-![PremiumPartner2](./res/img/PremiumPartner2.png)
+![PremiumPartner1](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PremiumPartner1.png)
+![PremiumPartner2](./wiki/MALAForma-Rhino-Suite.wiki/res/img/PremiumPartner2.png)
 
 ## License
 
-By downloading the application you are accepting [Exploratory Beta test license agreement](./license.md).
+By downloading the application you are accepting [Exploratory Beta test license agreement](./wiki/MALAForma-Rhino-Suite.wiki/license.md).
 
 ## Installation
 
@@ -46,7 +46,7 @@ src="https://img.shields.io/badge/MALAForma Rhino WIKI-informational?style=for-t
 
 ## Command List
 
-1. [SplittingCurve](./Commands/SplittingCurve.md)
+1. [SplittingCurve](./wiki/MALAForma-Rhino-Suite.wiki/SplittingCurve.md)
 
 ## How to report an issue / Bug
 
